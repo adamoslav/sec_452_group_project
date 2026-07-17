@@ -1,5 +1,5 @@
 # SCC 452 Group Project: MAS for Stocks
-This project involved building a multi-layer MAS (multi-agent) system for stock advice. The system consists of 4 agents - `technical_agent`, `health_agent`, `sentiment_agent`, and `plotting_agent`. The system is tested on 3 different stocks - `Boeing`,`Apple`, and `Tesla`. 
+This project involved building a multi-layer MAS (multi-agent) system for stock advice. The system consists of 5 agents - `technical_agent`, `health_agent`, `sentiment_agent`, `aggregator agent`, and `plotting_agent`. The system is tested on 3 different stocks - `Boeing`,`Apple`, and `Tesla`. 
 
 The system's main objective is to outperform baseline approach and a standalone selected agent. The evaluation uses **Sharpe Ratio**, **Maximum Drawdown**, and **$ Return (in %)** together with visuals showing `portfolio's value` over time, `distribution of agents' votes`, and `agents' confidence` over time.
 
